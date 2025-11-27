@@ -39,4 +39,5 @@
 - [x]  [25. Faça um contador de palavras em um texto.](Nivel_3/tr025.py)
 - [x]  [26. Crie uma função que receba uma lista e retorne apenas os pares.](Nivel_3/tr026.py)
 - [x] [27. Gere números aleatórios e salve em um arquivo.](Nivel_3/tr027.py)
+- [x] [28. Crie um gerador de senhas aleatórias.](Nivel_3/tr028.py)
       
