@@ -41,4 +41,4 @@
 - [x] [27. Gere números aleatórios e salve em um arquivo.](Nivel_3/tr027.py)
 - [x] [28. Crie um gerador de senhas aleatórias.](Nivel_3/tr028.py)
 - [x] [29. Implemente uma função recursiva para Fibonacci..](Nivel_3/tr029.py)
-      
+- [x] [30. Organize suas funções em um módulo próprio e importe.](Nivel_3/tr030.py)
