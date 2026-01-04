@@ -52,3 +52,4 @@
 - [x] [33. Crie uma classe Conta Bancária (depositar/sacar/saldo).](Nivel_4/tr033.py)
 - [x] [34. Classe Carro com métodos ligar, andar, abastecer.](Nivel_4/tr034.py)
 - [x] [35. Classe Aluno com notas e cálculo de média.](Nivel_4/tr035.py)
+- [x] [36. Classe Animal (herança para Cachorro e Gato).](Nivel_4/tr036.py)
