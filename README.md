@@ -1,3 +1,5 @@
+☑️ Lista de 50 Desafios de Python (Do Zero ao Avançado)
+----
 ## 🟢 Nível 1 – Iniciante (Fundamentos do Python)
 
 > Dica: Use print(), variáveis, operadores, condicionais, loops e funções simples.
@@ -53,3 +55,4 @@
 - [x] [34. Classe Carro com métodos ligar, andar, abastecer.](Nivel_4/tr034.py)
 - [x] [35. Classe Aluno com notas e cálculo de média.](Nivel_4/tr035.py)
 - [x] [36. Classe Animal (herança para Cachorro e Gato).](Nivel_4/tr036.py)
+- [x] [37. Crie uma classe com método estático.](Nivel_4/tr037.py)
