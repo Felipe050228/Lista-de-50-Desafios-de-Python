@@ -56,3 +56,4 @@
 - [x] [35. Classe Aluno com notas e cálculo de média.](Nivel_4/tr035.py)
 - [x] [36. Classe Animal (herança para Cachorro e Gato).](Nivel_4/tr036.py)
 - [x] [37. Crie uma classe com método estático.](Nivel_4/tr037.py)
+- [x] [38. Implemente encapsulamento (_atributo, __atributo).](Nivel_4/tr038.py)
